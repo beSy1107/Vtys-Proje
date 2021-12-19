@@ -1,5 +1,3 @@
-# Vtys-Proje
-
 2021 GÜZ DÖNEMİ
 
 DERS : VERİ TABANI ve YÖNETİM SİSTEMLERİ
@@ -42,18 +40,6 @@ Puanına göre her kullanıcının bir rank’ı olacaktır. Rank hesaplaması �
 1000000 ‘dan fazla ise “General”;
 
 Kullanıcıların ranklarının hesaplanabilmesi için platformun her alanında en az bir ekleme yapılmış olması gerekmektedir.
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 İlişkisel Şema
@@ -174,4 +160,4 @@ https://github.com/beSy1107/Vtys-Proje
 
 Çalışmamı Anlattığım Video
 
-
+https://youtu.be/QnXgMpbjTxM
